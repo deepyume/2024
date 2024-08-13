@@ -9,6 +9,7 @@ Your source of TOR knownledge (Guides, tor links, tor directory, TOR onion links
 
 | Site | TOR URL |
 | --- | --- |
+| Darkweblink.com | [dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion](http://dwltorbltw3tdjskxn23j2mwz2f4q25j4ninl5bdvttiy4xb6cqzikid.onion/) |
 | Facebook | [facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion](http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) |
 | Twitter | [twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion) |
 | DuckDuckGo | [duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion](https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion) |
@@ -123,3 +124,5 @@ Tor is supported by US government, many NGOs, private foundations, research inst
 https://medium.com/@darknethome/how-to-enter-darknet-in-2021-b55532cdc3f9
 
 https://brave.com/
+
+https://darkweblink.com/
